@@ -9,7 +9,7 @@ A etapa de obtenção de dataset consiste na definição dos idiomas a serem tra
 A escolha de idiomas se deu baseado em pesquisa de sistemas similares que identificaram que essas línguas têm diferenças marcantes, facilitando a classificação entre elas. No caso:
 * Francês
 * Inglês
-* Checo
+* Tcheco
 * Alemão
 * Sueco
 
